@@ -5,3 +5,4 @@ Amin devops-koulutuksen github opetukseen
 Sekavalta tuntuu.
 *Italic Kysymyksiä:*
 Mikä on Git for Windowsin, __Bold GitHubin__ ja WebGitin käytön ero?
+Miksiköhän tämä ei näy webGitissä commitin jälkeen?
