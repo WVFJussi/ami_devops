@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('TestDemo') {
       steps {
-        sh 'dir c:/Program Files/'
+        sh 'ls -l /home'
       }
     }
   }
